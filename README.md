@@ -1,4 +1,15 @@
 
+├── data/                                # Thư mục chứa dữ liệu (Dataset)
+│  
+├── notebook/                            # Thư mục chứa Jupyter Notebooks (Mã nguồn chính)
+│   ├── Lab5_part3.pdf                    
+│
+├── README.md                           # File báo cáo chi tiết này
+│
+├── part3                                # Mã nguồn Python (Modules/Classes tái sử dụng)
+│   
+├── .gitignore                           # File cấu hình bỏ qua file rác (tmp, __pycache__)
+
 Implementation (50%) – viết code hoàn thiện các task.
 
 Report & Analysis (50%) – mô tả các bước thực hiện, phân tích kết quả, so sánh performance.
